@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aliyevheydar33-tech.github.io/kainatsirleri/sitemap.xml
